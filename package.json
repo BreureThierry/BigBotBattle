@@ -1,0 +1,17 @@
+{
+  "name": "bigbotbattle",
+  "version": "1.0.0",
+  "description": "BigBotBattle est un bot de divertissement",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tusblux",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.31.2",
+    "discord.js": "^13.6.0",
+    "nodemon": "^2.0.15"
+  }
+}

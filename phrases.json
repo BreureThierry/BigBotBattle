@@ -1,0 +1,62 @@
+{
+    "prepa": [
+      "est dans l'arène", 
+      "est prêt pour le combat", 
+      "affûte ses lames", 
+      "veut en découdre avec tout le monde", 
+      "équipe ses poings d'acier", 
+      "jette un regard déterminé aux autres",
+      "fais craquer ses doigts",
+      "bombe le torse",
+      "grogne sur ses advairsaires",
+      "pose ses flingues au sol et avance d'un pas",
+      "crache par terre"
+      ],
+    "phrases": [
+        "a attaqué", 
+        "a frapper", 
+        "a tué",
+        "a fais une attaque sournoise à", 
+        "a castré", 
+        "a démoli", 
+        "a terminé", 
+        "a éffacé", 
+        "a ridiculisé",
+        "a brisé le cou de",
+        "a massacré",
+        "a tranché la tête de",
+        "a arraché le coeur de",
+        "a accidentellement étripé",
+        "a brisé la colonne vertébrale de",
+        "a brutalement assassiné",
+        "a brisé les rotules de",
+        "a étranglé"
+      ],
+    "phrases2": [
+        "avec une massue !", 
+        "puis a disparût en ricanant.", 
+        "en se tournant les pouces.", 
+        "avec une hache de pompier !", 
+        "avec une attaque mortel.", 
+        "avec l’élastique de son slip",
+        "avec une technique mysterieuse...",
+        "pendant qu'il se préparait !",
+        "avec un fil. Quel talent !",
+        "en lui faisant un câlin.",
+        "en chantant...",
+        "par erreur. Quel dommage...",
+        "avec un bâton ? C'est horrible !",
+        "avec sa dague et ses mots.",
+        "et l'a laissé pour mort, il a ensuite été mangé par des charognards."
+      ],
+	  "winPhrases": [
+        "a éclater tout le monde !", 
+        "a fais une purée avec ses adversaire. Qui en veut ?", 
+        "a piétinné les autres !", 
+        "a survécu avec honneur !", 
+        "tape la pose sur une pile de corps...", 
+        "se réjouis de sa victoire poignante !",
+        "a découpé ses adversaires. Quelqu'un veut une tranche ?"
+      ],
+    "players": ["BigBotBattle"]
+}
